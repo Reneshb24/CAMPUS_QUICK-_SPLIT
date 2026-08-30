@@ -252,7 +252,6 @@ flutter doctor
 
 ### 2. Clone the Repository
 
-[svg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT#2-clone-the-repository)
 
 Clone the project repository to your local directory using Git:
 
@@ -301,34 +300,47 @@ flutter run
 ## Screenshots
 
 
--   **Add Expense Screen:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg)    
-    ```
-    
--   **Settle Up Screen:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg)
-    ```
-    
--   **Delete Expense Dialog:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg)
-    ```
-    
--   **Analytics Overview:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg)
-    ```
--   **Category & Member Spending:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg)
-    ```
-    
--   **Settings & Preferences:**
-    ```
-    [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg) 
-    ```
+- **Home Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/HOME_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/HOME_SCREEN.jpeg)
+
+- **Group Details Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/GROUP_DETAILS_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/GROUP_DETAILS_SCREEN.jpeg)
+
+- **Add Group Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_GROUP_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_GROUP_SCREEN.jpeg)
+
+- **Add Member Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_MEMBER_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_MEMBER_SCREEN.jpeg)
+
+- **Add Expense Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg)
+
+- **Split Options Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SPLIT_OPTIONS_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SPLIT_OPTIONS_SCREEN.jpeg)
+
+- **Multi Payer Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/MULTI_PAYER_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/MULTI_PAYER_SCREEN.jpeg)
+
+- **Settle Up Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg)
+
+- **Payment History Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/PAYMENT_HISTORY_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/PAYMENT_HISTORY_SCREEN.jpeg)
+
+- **Delete Expense Dialog:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg)
+
+- **Analytics Overview Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg)
+
+- **Analytics Spending Breakdown Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg)
+
+- **Settings Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg)
+
+- **Storage Management Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/STORAGE_MANAGEMENT_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/STORAGE_MANAGEMENT_SCREEN.jpeg)
     
 ## Future Improvements
 
