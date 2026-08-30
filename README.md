@@ -301,46 +301,46 @@ flutter run
 
 
 - **Home Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/HOME_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/HOME_SCREEN.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/HOMESCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/HOMESCREEN.jpeg)
 
-- **Group Details Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/GROUP_DETAILS_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/GROUP_DETAILS_SCREEN.jpeg)
+- **Group Screen:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/GROUP_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/GROUP_SCREEN.jpeg)
+
+- **Group Details Page:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/GROUP_PAGE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/GROUP_PAGE_SCREEN.jpeg)
 
 - **Add Group Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_GROUP_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_GROUP_SCREEN.jpeg)
-
-- **Add Member Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_MEMBER_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_MEMBER_SCREEN.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_GROUP.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_GROUP.jpeg)
 
 - **Add Expense Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ADD_EXPENSE_SCREEN.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN.jpeg)
 
-- **Split Options Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SPLIT_OPTIONS_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SPLIT_OPTIONS_SCREEN.jpeg)
+- **Add Expense Details:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN1.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN1.jpeg)
 
-- **Multi Payer Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/MULTI_PAYER_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/MULTI_PAYER_SCREEN.jpeg)
+- **Add Expense Split Mode:**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN2.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ADD_EXPENSE_SCREEN2.jpeg)
 
 - **Settle Up Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTLE_UP_PAGE.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/SETTLE_UP_PAGE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/SETTLE_UP_PAGE.jpeg)
 
 - **Payment History Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/PAYMENT_HISTORY_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/PAYMENT_HISTORY_SCREEN.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/PAYMENT_HISTORY_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/PAYMENT_HISTORY_SCREEN.jpeg)
 
 - **Delete Expense Dialog:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/DELETE_EXPENSE.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/DELETE_EXPENSE.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/DELETE_EXPENSE.jpeg)
 
-- **Analytics Overview Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN2.jpeg)
+- **Analytics Dashboard (Main Overview):**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN1.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN1.jpeg)
 
-- **Analytics Spending Breakdown Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/ANALYTICS_SCREEN3.jpeg)
+- **Analytics Dashboard (Smart Insights & Averages):**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN2.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN2.jpeg)
+
+- **Analytics Dashboard (Category & Member Breakdown):**
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN3.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/ANALYTICS_SCREEN3.jpeg)
 
 - **Settings Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/SETTINGS_PAGE_SCREEN.jpeg)
-
-- **Storage Management Screen:**
-  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/STORAGE_MANAGEMENT_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/screenshots/STORAGE_MANAGEMENT_SCREEN.jpeg)
+  [https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/SETTINGS_PAGE_SCREEN.jpeg](https://github.com/Reneshb24/CAMPUS_QUICK-_SPLIT/blob/main/SCREENSHOTS/SETTINGS_PAGE_SCREEN.jpeg)
     
 ## Future Improvements
 
